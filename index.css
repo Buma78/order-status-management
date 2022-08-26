@@ -1,0 +1,43 @@
+.order-id-input-wrapper{
+    width: 400px;
+    margin: 25px auto;
+}
+.main-title{
+    color: rgb(248, 243, 242);
+    background-color: #006491;
+    text-align: center;
+    margin: 20px;
+    border-radius: 30px;
+}
+.order-status-card{
+    margin:15px 0;
+}
+.order-status-card .card {
+	border-radius: 20px;
+}
+.order-status-card .card-header{
+    background: #006491;
+    color: white;
+    border-radius: 20px 20px 0 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.order-status-card .card-footer{
+    background: #e31837;
+    color: white;
+    border-radius: 0 0 20px 20px;
+}
+.order-status-card .card-text{
+
+    margin-bottom: 0.5rem;
+}
+.order-status-card .rounded-pill{
+    font-size: 0.90em;
+}
+.cancel-btn :hover{
+    cursor: pointer;
+}
+.back-img{
+    background-image: url(https://i.pinimg.com/736x/e6/7d/af/e67daf68a6e8f6d4a9283cb7d64b098c.jpg);
+}
